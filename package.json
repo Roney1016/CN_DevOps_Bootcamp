@@ -1,0 +1,26 @@
+{
+  "name": "cn_devops_bootcamp",
+  "version": "1.0.0",
+  "description": "CN_DevOps_Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roney1016/CN_DevOps_Bootcamp.git"
+  },
+  "author": "manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roney1016/CN_DevOps_Bootcamp/issues"
+  },
+  "homepage": "https://github.com/Roney1016/CN_DevOps_Bootcamp#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}

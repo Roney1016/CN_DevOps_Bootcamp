@@ -1,3 +1,8 @@
 hello DevOps
 
 learn basic concept
+
+
+npm init
+npm i express
+npm install jest supertest --save-dev
